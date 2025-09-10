@@ -3,6 +3,11 @@ import { ModeToggle } from "./ModeToogle";
 import { CodeIcon, SquareCode } from "lucide-react";
 import { SignedIn, UserButton } from "@clerk/nextjs";
 import DasboardBtn from "./DasboardBtn";
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger,
+} from "@/components/ui/hover-card"
 
 function Navbar() {
   return (
