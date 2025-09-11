@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ModeToggle } from "./ModeToogle";
 import { CodeIcon, SquareCode } from "lucide-react";
 import { SignedIn, UserButton } from "@clerk/nextjs";
-import DasboardBtn from "./DasboardBtn";
+import DasboardBtn from "./DashboardBtn";
 import {
   HoverCard,
   HoverCardContent,
