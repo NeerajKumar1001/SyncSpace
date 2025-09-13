@@ -52,6 +52,8 @@ npm run dev
 yarn dev
 ```
 
+---
+
 🌐 Deployment
 
 Push your repo to GitHub.
@@ -62,6 +64,9 @@ Add environment variables in Vercel dashboard (Clerk + Convex keys).
 
 Deploy — your app will be live on a Vercel domain.
 
+---
+
+```bash
 📂 Folder Structure
 
 SyncSpace/
@@ -76,8 +81,8 @@ SyncSpace/
 ├── tsconfig.json
 ├── next.config.mjs
 └── postcss.config.mjs
-
-
+```
+---
 
 🤝 Contributing
 
@@ -89,11 +94,15 @@ Create a branch (feature/your-feature or fix/issue)
 
 Commit your changes
 
+---
+
 Push and open a Pull Request
 
 📜 License
 
 MIT License © 2025 Neeraj Kumar
+
+---
 
 📬 Contact
 
