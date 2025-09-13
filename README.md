@@ -103,11 +103,3 @@ Push and open a Pull Request
 MIT License © 2025 Neeraj Kumar
 
 ---
-
-📬 Contact
-
-Author: Neeraj Kumar
-
-GitHub: NeerajKumar1001
-
-Email: your-email@example.com
